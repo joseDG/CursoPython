@@ -51,9 +51,9 @@ Python es utilizado por las grandes empresas tecnologicas del mundo Saber Python
 
 ### La filosofia de Python 💢 
 La filosofia del lenguaje Python esta plasmado en el documento escrito Tim Peters
-**Hermoso es mejor que feo.**
-**Simple es mejor que complejo.**
-**Sencillo es mejor que anidado.**
-**Lo practico le gana a la pureza.**
-**Ahora mejor que nunca.**
-**Si la aplicacion es facil de explicar, puede ser buena idea.**
+- **Hermoso es mejor que feo.**
+- **Simple es mejor que complejo.**
+- **Sencillo es mejor que anidado.**
+- **Lo practico le gana a la pureza.**
+- **Ahora mejor que nunca.**
+- **Si la aplicacion es facil de explicar, puede ser buena idea.**
