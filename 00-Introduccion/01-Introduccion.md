@@ -1,4 +1,4 @@
-## Introduccion 
+## Introduccion 🐍 
 
 #### ¿Que es un programa?
 Un programa es el primer concepto que tienes que entender, y no es otra cosa que un conjunto de instrucciones que se le dan a un ordenador de forma secuencial para realizar una tarea especifica.
