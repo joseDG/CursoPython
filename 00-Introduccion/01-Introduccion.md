@@ -13,23 +13,23 @@ Python surgio como un pasatiempo para darle continuidad al lenguaje qeu utilizo 
 
 
 ### Caracteristicas 🧮 
-**Simplicidad**
+- **Simplicidad**
 Gran fortaleza de Python
-**Sintaxis clara**
+- **Sintaxis clara**
 La sintaxis de Python es muy clara, es obligataoria  la utilizacion de la identacion en todo el codigo que se escribe.
-**Proposito general**
+- **Proposito general**
 Se puede crear todo tipo de programas, incluyendo paginas web, muchas peronas han considerado durante mucho que Python era un lenguaje de Scripting y no es un lenguaje de proposito general.
-**Lenguaje Interpretado**
+- **Lenguaje Interpretado**
 al ser un lenguaje interpretado, no es necesario copilarlo, lo que te ahorrara tiempo a la hora de dasarrollar.Tambien implica que su ejecucion sea mas lenta, ya que los programas son ejecitados por el interprete de Python en vez de ejecutarlo por la maquina.
-**Lenguaje de alto nivel**
+- **Lenguaje de alto nivel**
 no es necesario que te preocupes de aspectos de bajo nivel como puede ser el manejo de la memoria del programa.
-**Lenguaje orientado a objetos**
+- **Lenguaje orientado a objetos**
 Lenguaje construido sobre los objetos que incorporan datos y funcionalidades.
-**Lenguje multiparadigma**
+- **Lenguje multiparadigma**
 ademas de programacion orientada a objetos Python ofrece programacion estructurada, programacion imperativa y programacion funcional.
-**Fuertemente tipado**
+- **Fuertemente tipado**
 Esto implica que el tipo de valor no cambia de forma repentina, es decir una cadena de texto que unicamente contiene numero no se convertira en un numero sin ralizar una conversion de tipos previa.
-**Tipado dinámico**
+- **Tipado dinámico**
 esto implica que el tipo de valor que contiene las variables pueden cambiar en tiempo de ejecucion, es decir, es posible tener una variable que durante la ejecucion de un programa almacenado una cadena de texto y posteriormente un entero.
 
 ### ¿Por qué Python? 😲 
@@ -37,16 +37,16 @@ La primera pregunta que se hace la gente que quiere aprender a programar es ¿Qu
 
 Nosotros no pensamos unicamente que Python sea un lenguaje de programacion perfecto para personas que acaban de comenzar, sino que es un lenguaje de programacion que tiene una serie de caracteristicas que le encataran a cualquier persona que ya sepa programar.
 
-**Resultados rapidos**
+- **Resultados rapidos**
 Aprendiendo Python vas a estar haciendo programas a los pocos dias, o incluso horas, veras como avanzas casi sin esfuerzo a gran velocidad.
 
-**Comunidad**
+- **Comunidad**
 La comunidad que hay detras de este lenguaje de programacion es inmensa lo que provoca que el lenguaje no quede obsoleto y vaya recibiendo actualizaciones.
 
-**Desarrollo Web**
+- **Desarrollo Web**
 el desarrollo web esta de moda, y como no, Python posee una multitud de frameworks para desarrollar paginas web, entre ellos destaca Django.
 
-**Demanda laboral alta**
+- **Demanda laboral alta**
 Python es utilizado por las grandes empresas tecnologicas del mundo Saber Python implicara tener mas posibilidades de encontrar ese trabajo que siempre has querido tener.
 
 ### La filosofia de Python 💢 
