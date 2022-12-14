@@ -13,6 +13,6 @@ En python las variables se definen utilizando las letras de la A a la Z, tanto e
 
 Los valores con asignados a las variables con el operador asignacion "=" lo que esta ala derecha del operador será asignado.
 
-`edad = 35`
-`ciudad = "Loja"`
+`edad = 35`\
+`ciudad = "Loja"`\
 `precio = 3.13`
