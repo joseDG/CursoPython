@@ -20,5 +20,5 @@ Hasta ahora solo hemos visto ejemplo muy sencillos.Antes de adentrame en explica
 
 #### Solución
 
->>> `((25 * 12**2)/16)*3`
-**675.0**
+- `((25 * 12**2)/16)*3`
+- Resultado:  **675.0**
