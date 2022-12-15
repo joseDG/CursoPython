@@ -14,6 +14,8 @@ Es posible utilizar un tipo de comilla externa (rodeada el texto) y otro tipo de
 
 ![Tabla con caracteres de escape](assets/img/2.png "tipos de datos")\
 
+Existen un conjunto de caracteres que requieren una forma concreta a la hora de ser mostrados por pantalla, bien sea porque aportan funciones dentro de las cadenas de texto.
+
 ### Ejemplos
 `texto = "Hola Mundo"`\
 `print(texto)`
@@ -31,6 +33,20 @@ print("print('what to print')")
 `print("Hola" + " " + "Jose")`
 
 ## **Inputs**
+Python dispone del comando **input** para leer informacion introducida por los usuarios de la aplicacion mediante el teclado.
+
+Vamos a ver como funciona con un ejercicio en el que vamos a solicitar al usuario de la aplicación su nombre y sus apeliidos mediante los comandos *print* e *input*
+
+`print("Introduce su nombre:")`\
+`nombre = input()`\
+`print("Introduce sus apellidos:")`\
+`apellidos = input()`\
+`print("Hola", nombre, apellidos)`
+
+`nombre = input("Introduce su nombre:")`
+`apellido = input("Introduce sus apellidos:")`
+`print("Hola", nombre, apellido)`
+
 `print( len( input("What is your name? ") ) )`
 
 `
