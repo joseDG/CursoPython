@@ -87,3 +87,35 @@ Los numeros reales tienen un numero infinito de decimales, pero Python dispone d
 `multiplicador = float(input("Multiplicador: "))`\
 `resultado = round(multiplicando * multiplicador,1)`\
 `print("Resultado de la multiplicacion: ", resultado)`
+
+
+## Numeros complejos
+
+Los numeros complejos son aquellos numeros que estan compuestos por una parte real y una parte imaginaria, y en el que cada una de las partes es un numero decimal.
+
+Mediante complex lo que hacemos es transformar las dos cadenas de texto leidas en un numero complejo.Tal como puedes observar, ambas cadenas leidas son transformadas en numeros reales, ya que tanto la parte imaginario.
+
+`numero = complex(float(input("Parte real: ")),float(input("Parte imaginaria: ")))`
+`print(numero)`
+
+**Segundo ejercicio**
+`sumando1 = complex(float(input("parte real sumando1: ")), float(input("Parte imaginaria sumando 1:")))`
+`sumando2 = complex(float(input("parte real sumando2: ")), float(input("Parte imaginaria sumando 2:")))`
+`print("Resultado:",sumando1 + sumando2)`
+
+## Uso de Paréntesis
+
+Tal y como hemos explicado al comienzo del capitulo, en python el orden de ejecucion de las operaciones dependen de la propia operacion qeu se ejecuta.Para evitar problemas con el orden o confusiones te aconsejamos que utilices parentesis para establecer el orden de la ejecucion
+
+**ejemplo**
+  *(8+(7x(5^2)))-(5//3)*
+- 1 Primera operacion 5^2
+  - Operacion pendiente *(8+(7x25))-(5//3)*
+- 2 Operacion *7x25*
+  - Operacion pendiente *(8+175))-(5//3)*
+- 3 Operacion *8+175*
+  - Operacion pendiente *183-(5//3)*
+- 4 operacion *5//3*
+  - Operacion pendiente 183-1
+- 5 Operacion final *183-1*
+  - Resultado final *182*
