@@ -16,3 +16,19 @@ Los valores con asignados a las variables con el operador asignacion "=" lo que 
 `edad = 35`\
 `ciudad = "Loja"`\
 `precio = 3.13`
+
+## **Formateado la salida**
+
+El comando **print** dispone de dos parametros que nos van a permitir darle formato al mensaje.
+
+### Ejemplo
+
+- **sep**
+  Permite modificar el caracter por defecto de espacio en blanco que se introduce de forma automatica como separador
+
+  `print(1,2,3, sep=',')`
+
+- **end**
+  permite anadir una cadena de texto como elemento final del conjunto de cadenas de texto.
+
+  `print(1,2,3, sep=',', end='.')`
