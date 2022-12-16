@@ -2,30 +2,30 @@
 
 ### *1. Ejercio probando todos los elemtos*
 
-`
-cadena1 = input("Introduzca la primera cadena:")/
-cadena2 = input("Introduzca la segunda cadena:")/
-cadena3 = input("Introduzca la tercera cadena:")/
+```
+cadena1 = input("Introduzca la primera cadena:")
+cadena2 = input("Introduzca la segunda cadena:")
+cadena3 = input("Introduzca la tercera cadena:")
 
-print("Longitud de la cadena2 (len):", len(cadena1))/
-print("Cadena3 todas a mayusculas (upper):", cadena3.upper())/
-print("Cadena3 todas a minusculas (lower):", cadena3.lower())/
-print("Cadena2 cambia de mayusuculas a minusculas y viceversa (swapcase):",cadena2.swapcase())/
-print("Cadena1 la primera a mayusuculas (capitalize):",cadena1.capitalize())/
-print("Cadena2 la primera de cada palabra a mayusculas (title):", cadena2.title())/
-print("¿Cadena1 todo minusculas? (islower):", cadena1.islower())/
-print("¿Cadena3 todo mayusculas? (isupper):", cadena3.isupper())/
-print("¿Cadena2 todo caracteres imprimibles? (isprintable):", cadena2.isprintable())/
-print("¿Cadena3 todo caracters alfanumericos? (isalnum):", cadena3.isalnum())/
-print("¿Cadena1 todo caracteres alfabeticos? (isalpha):", cadena1.isalpha())/
+print("Longitud de la cadena2 (len):", len(cadena1))
+print("Cadena3 todas a mayusculas (upper):", cadena3.upper())
+print("Cadena3 todas a minusculas (lower):", cadena3.lower())
+print("Cadena2 cambia de mayusuculas a minusculas y viceversa (swapcase):",cadena2.swapcase())
+print("Cadena1 la primera a mayusuculas (capitalize):",cadena1.capitalize())
+print("Cadena2 la primera de cada palabra a mayusculas (title):", cadena2.title())
+print("¿Cadena1 todo minusculas? (islower):", cadena1.islower())
+print("¿Cadena3 todo mayusculas? (isupper):", cadena3.isupper())
+print("¿Cadena2 todo caracteres imprimibles? (isprintable):", cadena2.isprintable())
+print("¿Cadena3 todo caracters alfanumericos? (isalnum):", cadena3.isalnum())
+print("¿Cadena1 todo caracteres alfabeticos? (isalpha):", cadena1.isalpha())
 print("¿Cadena3 la primera de cada palabra en mayusculaas y el resto en minusculas? (istitle):", cadena3.istitle())
-print("Cadena2 todo los caracteres son espacios en blanco? (isspace):", cadena2.isspace())/
-print("¿Cadena1 todo digitos? (isdigit):", cadena1.isdigit())/
-print("¿Cadena2 todos los caracteres con representacion numerica?(isnumeric):", cadena2.isnumeric())/
-print("¿Cadena3 todos los caracteres son numeros con representacion decimal? (isdecimal):", cadena3.isdecimal())/
-print("Caracter mas alto de la cadena1 (max):", max(cadena1))/
-print("Caracter mas bajo de la cadena3 (min):", min(cadena3))/
-`
+print("Cadena2 todo los caracteres son espacios en blanco? (isspace):", cadena2.isspace())
+print("¿Cadena1 todo digitos? (isdigit):", cadena1.isdigit())
+print("¿Cadena2 todos los caracteres con representacion numerica?(isnumeric):", cadena2.isnumeric())
+print("¿Cadena3 todos los caracteres son numeros con representacion decimal? (isdecimal):", cadena3.isdecimal())
+print("Caracter mas alto de la cadena1 (max):", max(cadena1))
+print("Caracter mas bajo de la cadena3 (min):", min(cadena3))
+```
 
 ### *2. Eliminiar caracteres de espacios en blanco de la cadena solicitada al usuario*
 
