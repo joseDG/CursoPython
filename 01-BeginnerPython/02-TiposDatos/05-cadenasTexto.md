@@ -210,3 +210,44 @@ Esta funcion es la inversa de ord(), es decir que en base al numero entero *i* e
   - Parametros: no tiene.
 
 ### **Porciones de Cadenas**
+
+Las cadenas de texto ofrecen la funcionalidad de extraer partes de la cadena de texto, es decir, partiendo de una cadena de texto base nos ofrece la posibilidad de extraer subcadenas para poder trabajar con ellas.
+
+La forma de extraer estas subcadenas es utilizando el operador **[n:m]**, donde n es la posicion del caracter inicial y m la posicion del caracter final. El operador **[n:m]** permite omitir uno de los dos indices, en caso de omitir la n la subcadena empezara desde el principio de la cadena.
+
+```
+cadena = 'F.C.Barcelona , Atletico de Madrid, Real Madrid'
+print("Primer equipo (cadena[0:13]):", cadena[0:13])
+print("Segundo equipo (cadena[15:33]):", cadena[15:33])
+print("Tercer equipo (cadena[35:46]):", cadena[35:46])
+print("Desde el principio (cadena[:13]):", cadena[:13])
+print("Desde el final (cadena[:13]):", cadena[15:])
+```
+
+### **Formateo de Cadenas**
+
+Hasta el momento hemos construido cadenas concatenandolas, pero Python nos ofrece dos formas de crear cadenas qeu estan compuestas por varias cadenas.
+
+#### **Operador %**
+
+La primera forma de componer cadenas es utilizando el operador %. El operador indica que dentro de la cadena base se realizara la sustitucion de ese operador por la cadena que se especifique.
+
+**Tabla Operadores de caracteres**
+![Otros operadores](assets/img/12.png "operador")\
+
+**Ejemplo**
+
+```
+multiplicando = int(input("Multiplicando:"))
+multiplicador = int(input("Multiplicador:"))
+print("El resultado de multiplicar %d por %d es %d" % (multiplicando, multiplicador, multiplicando*multiplicador))
+```
+#### **format()**
+
+La funcion *format* devuelve una version formateada de una cadena de caracteres, usando sustituciones desde argumentos args y kwargs. La forma de especificar dentro de la cadena de texto base la posicion que debe ocuparlos argumentos se identifican con llaves **{}** dentro de la cadena.
+
+```
+multiplicando = int(input("Multiplicando:"))
+multiplicador = int(input("Multiplicador:"))
+print("El resultado de multiplicar {0} por {1} es {2}".format(multiplicando, multiplicador, multiplicando*multiplicador))
+```
