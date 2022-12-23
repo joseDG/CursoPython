@@ -17,17 +17,18 @@ Usando un modulo llamado **pyplot**, que usa funciones y comandos similares a lo
 Usando los **objetos** propios de la libreria matplotlib : es una manera un poco mas compleja, ya que debemos crear y hacer referencia a los objetos que componen la libreria, trabajando con la filosofia de la programacion orientada objetos.
 
 ### **Ejemplo1**
-![Ejemplo 1!](/assets/img/1.png "Grafica #1")
+![Ejemplo 1!](assets/img/1.png "Grafica #1")
+
 
 (1,77.77) -> (2,34.56) -> (3,89.32) -> (4,90.21) -> (5,29.12)
 
 
 ### **Ejemplo2**
-![Ejemplo 1!](/assets/img/2.png "Grafica #2")
+![Ejemplo 1!](assets/img/2.png "Grafica #2")
 
 ### **Ejemplo3**
-![Ejemplo 1!](/assets/img/3.png "Grafica #3")
+![Ejemplo 1!](assets/img/3.png "Grafica #3")
 
 ### **Ejemplo4**
-![Ejemplo 4!](/assets/img/4.png "Grafica #4")
+![Ejemplo 4!](assets/img/4.png "Grafica #4")
 
