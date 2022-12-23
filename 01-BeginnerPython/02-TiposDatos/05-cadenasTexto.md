@@ -90,6 +90,11 @@ El tipo de dato cadena de texto en Python posee una serie de funciones que nos p
   - NombreFuncion: nombre de la funcion que se quiere ejecutar.
   - Parametros: no todas las funciones tienen parametros para ejecutarse, esta parte es independiente.
 
+### **La Funcion chr()**
+Esta funcion es la inversa de ord(), es decir que en base al numero entero *i* en formato decimal, nos devulve el caracter correspondiente en el codigo unicode.
+
+```chr(i)```
+
 ### **Metodos disponibles**
 
 ***capitalize**: Permite poner la primera letra de la cadena en mayuscula.
