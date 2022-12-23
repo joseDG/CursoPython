@@ -203,3 +203,5 @@ El tipo de dato cadena de texto en Python posee una serie de funciones que nos p
 ***zfill**: Permite crear una cadena de texto de longitud indicada por parametros compuesta por ceros a ala izquierda.
   - Valor devuelto: cadena de texto modificada.
   - Parametros: no tiene.
+
+### **Porciones de Cadenas**
