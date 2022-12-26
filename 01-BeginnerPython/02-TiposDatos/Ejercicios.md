@@ -1,6 +1,6 @@
 ## **Cadenas**
 
-### *1. Ejercio probando todos los elemtos*
+### *1. Ejercio probando todos los elementos*
 
 ```
 cadena1 = input("Introduzca la primera cadena:")
