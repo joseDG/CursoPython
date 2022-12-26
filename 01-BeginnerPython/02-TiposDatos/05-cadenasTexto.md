@@ -95,6 +95,25 @@ Esta funcion es la inversa de ord(), es decir que en base al numero entero *i* e
 
 ```chr(i)```
 
+### **La Funcion len()**
+Devuelve la longitud de la cadena, es decir, el numero de caracteres que la componen.
+
+``` len("Palabra")```
+
+### **La Funcion max()**
+Devulve el caracter con mayor valor numerico asociado de los que componen la cadena
+
+``` 
+t1 = "manzana"
+max(t1)
+```
+### **La Funcion min()**
+Devuelve el caracter con menor valor numerico asociado de los que componen la cadena.
+
+``` 
+t2 = "Pera"
+min(t2)
+```
 ### **Metodos disponibles**
 
 ***capitalize**: Permite poner la primera letra de la cadena en mayuscula.
