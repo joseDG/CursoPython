@@ -193,3 +193,41 @@ print("Lista despues de pop: ", lista)
 lista.clear()
 print("Lista despues de clear: ", lista)
 ```
+## **Operadores IN/NOT en listas** 🏧 
+
+En muchos momentos nos sera de gran utilidad saber si un determinado elemento esta o no en una lista.Para ello haremos uso de los operadores in/not in , que tiene el sigueinte formato
+
+``` elemento_a_buscar[in/not in]lista_en_la_que_buscar```
+
+Estos operadores nos devolveran un valor booleano indicando si el elemento esta o no en la lista
+
+``` 
+7 in  lista_3
+```
+
+## **Compresion de listas** 🥑 
+
+Mediante la compresion de listas se proporciona un metodo rapido para crear una lista de elementos.Tiene el siguiente formato
+
+``` [expresion bloque_for [bloques_for y bloques_if]]```
+
+Distinguimos entre los corchetes exteriores (obligatorios en el formato) y los interiores, que como siempre nos indican que lo que aparece en su interior es opcional y puede, o no aparecer.Recorre los elementos que nos marcan los bucles *for* (que pueden estar anidados), se comprueba las condiciones impuestas por los bloques if
+
+### **Ejercicio1**
+
+```
+lista_5 = [4,6,8,10]
+lista_9 = [x**2 for x in lista_5 if x > 7]
+print(lista_9) 
+
+lista_2 = [1,2,3]
+lista_5 = [4,6,8,10]
+lista_10 = [x+y for x in lista_2 for y in lista_5]
+print(lista_10)
+
+lista_11 = [x + y for x in lista_2 if x > 1 for y in lista_5 if y > 7]
+print(lista_11)
+
+lista_12 = [2*x for x in range(100,140,4)]
+print(lista_12)
+```
