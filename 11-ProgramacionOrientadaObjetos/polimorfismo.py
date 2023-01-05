@@ -1,7 +1,7 @@
 class Persona:
 
     def __init__(self, nombre):
-        self.nombre = nombre
+        self.Nombre = nombre
 
     def avanza(self):
         print('Ando caminando')
@@ -16,13 +16,13 @@ class Ciclista(Persona):
         print('Ando en bicicleta')
 
 
-def main():
-    persona = Persona('Fabian')
-    persona.avanza()
+persona = Persona('Fabian')
+print(persona.Nombre)
+persona.avanza()
 
-    ciclista = Ciclista('Daniel')
-    ciclista.avanza()
+print("\n")
 
+ciclista = Ciclista('Daniel')
+print(ciclista.Nombre)
+ciclista.avanza()
 
-if __name__ == '__main__':
-    main()
