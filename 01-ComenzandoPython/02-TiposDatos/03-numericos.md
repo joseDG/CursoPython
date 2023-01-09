@@ -10,6 +10,13 @@ Los tipos de datos en Python relacionados con los numeros son tres:
   - **Complejo**
     - numero compuesto por parte real y parte imaginaria
 
+### Comprobacion de tipo de dato 💢 
+para poder verificar el tipo de datos se utiliza
+```
+numero = 5
+type(numero) 
+```
+
 ### Operadores Arimeticos 🕣
 
 Los operadores arimeticos son aquellos operadores que nos van a permitir realizar operaciones arimeticas con los datos. Python dispone de los siguientes operadores arimeticos:
