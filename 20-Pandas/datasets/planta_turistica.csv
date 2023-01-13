@@ -1,0 +1,345 @@
+Numero;Año ;Provincia;Cantón;Parroquia;Nombre comercial;Clasificación;Categoría;Tipología ;Registro;Número de habitaciones;Número de plazas;Latitud;Longitud
+1;2019;Loja;Zapotillo;Zapotillo;Mi Familia;Hotel;Segunda;Planta turística;Ministerio de Turismo;33;56;-4,387288;-80,243508
+2;2019;Loja;Zapotillo;Zapotillo;Bamrua Internacional;Hotel;2 estrellas;Planta turística;Ministerio de Turismo;30;83;-4,385154;-80,243282
+3;2019;Loja;Zapotillo;Zapotillo;Bianfer;Hotel;3 estrellas;Planta turística;Ministerio de Turismo;14;44;-4.382.990;-80,241238
+4;2019;Loja;Zapotillo;Zapotillo;Los Charanes;Hostal;Segunda;Planta turística;Ministerio de Turismo;23;47;-4,386003;-80,244101
+5;2019;Loja;Zapotillo;Zapotillo;Los Ángeles;Hostal;1 Estrella;Planta turística;Ministerio de Turismo;10;17;-4,386613;-80,243687
+6;2019;Loja;Zapotillo;Zapotillo;Los Guayacanes;Hostal;3 Estrellas;Planta turística;Ministerio de Turismo;12;28;-4,387163;-80,242016
+7;2019;Loja;Zapotillo;Zapotillo;Varcor Hostal;Hostal;1 Estrella;Planta turística;Ministerio de Turismo;8;10;-4,388564;-80,244327
+8;2019;Loja;Zapotillo;Zapotillo;Verdes Tamarindos;Hostal;1 Estrella;Planta turística;Ministerio de Turismo;12;20;-4,385412;-80,244017
+9;2019;Loja;Zapotillo;Zapotillo;Zapotillo;Hostal;1 Estrella;Planta turística;Ministerio de Turismo;11;20;-4,387846;-80,244987
+10;2019;Loja;Zapotillo;Zapotillo;La Cabuya D&N;Alimentos & bebidas;Tercera;Planta turística;Ministerio de Turismo;;64;-4,388973;-80,243622
+11;2019;Loja;Zapotillo;Zapotillo;Cerca del Sol;Restaurante;Tercera;Planta turística;Ministerio de Turismo;;36;-4.841.090;-80,242697
+12;2019;Loja;Zapotillo;Zapotillo;Zona Refrescante Burneo & A;Alimentos & bebidas;Tercera;Planta turística;Ministerio de Turismo;;16;-4,387324;-80,243269
+13;2019;Loja;Zapotillo;Zapotillo;Coronel Requena & Asociados;Agencia de viajes;Operador turístico;Planta turística;Ministerio de Turismo;;;-4,386828;-80,244311
+14;2019;Loja;Zapotillo;Zapotillo;Las Palmeras;Hostal;Segunda;Planta turística;Ministerio del Interior;6;6;-4,387878;-80,244928
+15;2019;Loja;Zapotillo;Paletillas;Paletillas;Hostal;Segunda;Planta turística;Ministerio del Interior;6;10;-4,164806;-80.272.600
+16;2019;Loja;Zapotillo;Zapotillo;Sol De Plata;Hostal;Tercera;Planta turística;Ministerio del Interior;7;9;-4,386094;-80,243961
+17;2019;Loja;Zapotillo;Paletillas;Teresita ;Hostal;Tercera;Planta turística;Ministerio del Interior;14;21;-4,164789;-80,272536
+18;2019;Loja;Zapotillo;Mangahurco;Guayacanes;Hostal;Tercera;Planta turística;Ministerio del Interior;5;10;-4,155603;-80.432.520
+19;2019;Loja;Zapotillo;Zapotillo;R. La Esquina Del Buen Sazón ;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+20;2019;Loja;Zapotillo;Zapotillo;R. Chivo Al Hueco;Restaurante;ND;Planta turística;Ministerio del Interior;;42;-4,388336;-80,246453
+21;2019;Loja;Zapotillo;Zapotillo;R. Los Yagairos;Restaurante;ND;Planta turística;Ministerio del Interior;;30;-4,387508;-80,245161
+22;2019;Loja;Zapotillo;Zapotillo;R. Pollos Anhy;Restaurante;ND;Planta turística;Ministerio del Interior;;60;-4,387911;-80,244206
+23;2019;Loja;Zapotillo;Zapotillo;R. Salón Angélica;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+24;2019;Loja;Zapotillo;Zapotillo;D´mar y Braza;Restaurante;ND;Planta turística;Ministerio del Interior;;38;-4,387272;-80.244.200
+25;2019;Loja;Zapotillo;Zapotillo;Mini Restaurant;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+26;2019;Loja;Zapotillo;Zapotillo;Encebollados;Restaurante;ND;Planta turística;Ministerio del Interior;;30;-4,386842;-80,245486
+27;2019;Loja;Zapotillo;Zapotillo;Rincón Zapotillano;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+28;2019;Loja;Zapotillo;Zapotillo;Encebollados Sabor Manaba;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+29;2019;Loja;Zapotillo;Zapotillo;Al Hueco Zapotillano;Restaurante;ND;Planta turística;Ministerio del Interior;;;-4,388238;-80,246378
+30;2019;Loja;Zapotillo;Zapotillo;Cevichería Rustica;Restaurante;ND;Planta turística;Ministerio del Interior;;20;-4.387.950;-80,242606
+31;2019;Loja;Zapotillo;Zapotillo;Sabor Manaba;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+32;2019;Loja;Zapotillo;Zapotillo;Aripris;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+33;2019;Loja;Zapotillo;Zapotillo;Restaurante El Gringo;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+34;2019;Loja;Zapotillo;Zapotillo;R. Pollería y Marisquería Zapotillana;Restaurante;ND;Planta turística;Ministerio del Interior;;20;-4,388164;-80,246258
+35;2019;Loja;Zapotillo;Zapotillo;Rincón del Buen Sabor;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+36;2019;Loja;Zapotillo;Zapotillo;Bar;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+37;2019;Loja;Zapotillo;Zapotillo;Comedor El Paraíso;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+38;2019;Loja;Zapotillo;Zapotillo;Cabaña Nº1;Restaurante;ND;Planta turística;Ministerio del Interior;;32;-4.388.864;-24.358.600
+39;2019;Loja;Zapotillo;Zapotillo;Cabaña Nº2;Restaurante;ND;Planta turística;Ministerio del Interior;;34;-4,388192;-80.242.239
+40;2019;Loja;Zapotillo;Zapotillo;Cabaña Nº3;Restaurante;ND;Planta turística;Ministerio del Interior;;60;-4.388.192;-80.242.239
+41;2019;Loja;Zapotillo;Zapotillo;Cabaña Nº4;Restaurante;ND;Planta turística;Ministerio del Interior;;42;-4.388.192;-80.242.239
+42;2019;Loja;Zapotillo;Zapotillo;Cevichería El Gato;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+43;2019;Loja;Zapotillo;Zapotillo;Marisquería Alison;Restaurante;ND;Planta turística;Ministerio del Interior;;;ND;ND
+44;2019;Loja;Zapotillo;Zapotillo;Marisquería Zapotillana;Restaurante;ND;Planta turística;Ministerio del Interior;;8;-4.388.164;-80.246.258
+45;2019;Loja;Zapotillo;Zapotillo;Parrilladas Muñeca;Restaurante;ND;Planta turística;Ministerio del Interior;;8;-4.383.925;-80.241.069
+46;2019;Loja;Zapotillo;Zapotillo;Parrillas El Chino;Restaurante;ND;Planta turística;Ministerio del Interior;;20;-4.387.400;-80.244.464
+47;2019;Loja;Zapotillo;Zapotillo;Parrilladas Colombia ;Restaurante;ND;Planta turística;Ministerio del Interior;;57;-4.386.083;-80.243.092
+48;2019;Loja;Zapotillo;Zapotillo;Marisquería Alexandrita;Restaurante;ND;Planta turística;Ministerio del Interior;;38;-4.388.306;-80.244.028
+49;2019;Loja;Zapotillo;Zapotillo;R. Doña Reina;Restaurante;ND;Planta turística;Ministerio del Interior;;20;-4.386.403;-80.245.103
+50;2019;Loja;Zapotillo;Zapotillo;Bar Restaurant 5 Estrellas;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;;ND;ND
+51;2019;Loja;Zapotillo;Zapotillo;Bar Le Cocó;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;28;-4.388.003;-80.244.033
+52;2019;Loja;Zapotillo;Zapotillo;Distk. Chimus;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;;ND;ND
+53;2019;Loja;Zapotillo;Zapotillo;Distk de Brother;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;;ND;ND
+54;2019;Loja;Zapotillo;Zapotillo;Distk. Diamonds;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;;ND;ND
+55;2019;Loja;Zapotillo;Zapotillo;Italia Al Dente;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;24;-4.387.831;-80.244.728
+56;2019;Loja;Zapotillo;Zapotillo;Hard Rock;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;;ND;ND
+57;2019;Loja;Zapotillo;Zapotillo;Bar Cabu;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;;ND;ND
+58;2019;Loja;Zapotillo;Zapotillo;Moto Taxpal S.A;Cooperativas;ND;Planta turística;Ministerio del Interior;;;-4,387892;-80.244.961
+59;2019;Loja;Zapotillo;Zapotillo;Grand Soto;Cooperativas;ND;Planta turística;Ministerio del Interior;;;ND;ND
+60;2019;Loja;Zapotillo;Zapotillo;Taxis “U Zapotillana”;Cooperativas;ND;Planta turística;Ministerio del Interior;;;-4.383.856;-80.240.606
+61;2019;Loja;Zapotillo;Zapotillo;Guayacanes Bosque Seco;Cooperativas;ND;Planta turística;Ministerio del Interior;;;ND;ND
+62;2019;Loja;Zapotillo;Zapotillo;Limones y Fronteras S.A;Cooperativas;ND;Planta turística;Ministerio del Interior;;;ND;ND
+63;2019;Loja;Zapotillo;Zapotillo;Loja Internacional;Cooperativas;ND;Planta turística;Ministerio del Interior;;;-4.386.139;-80.243.911
+64;2019;Loja;Zapotillo;Zapotillo;Unión Cariamanga;Cooperativas;ND;Planta turística;Ministerio del Interior;;;-4.384.306;-80.241.403
+65;2019;Loja;Zapotillo;Zapotillo;Chimus;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;40;-4.387.819;-80.245.219
+66;2019;Loja;Zapotillo;Zapotillo;Brother;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;70;-4.380.756;-80.241.444
+67;2019;Loja;Zapotillo;Zapotillo;Diamonds;Bares y Discotecas;ND;Planta turística;Ministerio del Interior;;98;-4.387.978;-80.244.669
+68;2019;Loja;Zapotillo;Zapotillo;Coronel Requena & Asociados;Operadora Turística;ND;Planta turística;Ministerio del Interior;;1;-4.386.828;-80.244.311
+69;2019;Loja;Zapotillo;Zapotillo;Artesanías;Artesanías;ND;Planta turística;Ministerio del Interior;;;-4.387.903;-80.245.775
+70;2019;Loja;Zapotillo;Zapotillo;Cabralac;Alimentos & bebidas;ND;Planta turística;Ministerio del Interior;;;-4.356.539;-80.230.994
+71;2019;Loja;Zapotillo;Zapotillo;Manjares;Alimentos & bebidas;ND;Planta turística;Ministerio del Interior;;;ND;ND
+72;2019;Loja;Zapotillo;Zapotillo;Biotienda ;Artesanías;ND;Planta turística;Ministerio del Interior;;;-4.388.883;-80.243.172
+73;2019;Loja;Zapotillo;Zapotillo;Polimiel;Alimentos & bebidas;ND;Planta turística;Ministerio del Interior;;;-4.198.891;-80.270.923
+74;2019;Loja;Zapotillo;Zapotillo;BanEcuador;Financiero;ND;Planta turística;Ministerio del Interior;;;-4.383.747;-80.241.808
+75;2019;Loja;Zapotillo;Zapotillo;Cajero Banco de Loja;Financiero;ND;Planta turística;Ministerio del Interior;;;-4.388.172;-80.244.136
+76;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Amazon Travel Sucursal;Agencia de viajes;ND;Planta turística;Ministerio de Turismo ;;;-748569;-9575919
+77;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Ama – al;Restaurante;Cuarta;Planta turística;ND;;;-748606,625;-9576195,306
+78;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Grancolombiana;Restaurante;Cuarta;Planta turística;Ministerio de Turismo ;;;-748690;-9576515
+79;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Ejecutivo 2;Restaurante;Cuarta;Planta turística;ND;;;-748877,999;-9577357,715
+80;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Ejecutivos;Restaurante;Cuarta;Planta turística;ND;;;-748835;-9577409
+81;2019;Zamora Chinchipe;Yantzaza;Los Encuentros;Los Encuentros;Restaurante;Cuarta;Planta turística;ND;;;-761524,7;-9584001,5
+82;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Brasa y leña;Restaurante;Cuarta;Planta turística;Ministerio de Turismo;;;-748499;-9576050
+83;2019;Zamora Chinchipe;Yantzaza;Los Encuentros ;Hotel Digna María;Hostal;1 Estrella;Planta turística;Ministerio de Turismo;15;22;-761483,734;-9584062,679
+84;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hotel Yanku orquídea;Hostal;1 Estrella;Planta turística;Ministerio de Turismo;24;49;-748681;-9576013
+85;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hostal La luciérnaga;Hostal;1 Estrella;Planta turística;Ministerio de Turismo;17;24;-748791,112;-9576133,556
+86;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hostal Carolina;Hostal;1 Estrella;Planta turística;Ministerio de Turismo;14;25;-748940;-9577090
+87;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hotel Galaxy;Hostal;1 Estrella;Planta turística;Ministerio de Turismo;14;22;-748651,411;-9575929,631
+88;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hostal Oriental;Hostal;1 Estrella;Planta turística;Ministerio de Turismo;17;22;-748709,702;-9576124,752
+89;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hostal Sebastians Internacional;Hostal;2 Estrellas;Planta turística;Ministerio de Turismo;23;37;-748746,979;-9576145,672
+90;2019;Zamora Chinchipe;Yantzaza;Los Encuentros ;Hostal Charles;Hostal;2 Estrellas;Planta turística;Ministerio de Turismo;6;8;-761352;-9584030
+91;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hostería Tierra dorada;Hostería;3 Estrellas;Planta turística;Ministerio de Turismo;20;42;-750682756;-9577627,32
+92;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hostería Playa verde;Hostería;Tercera;Planta turística;ND;;;-748518,554;-9578776,116
+93;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Gran Hotel Yantzaza;Hotel;3 Estrellas;Planta turística;ND;;;-748978,899;-9577371,652
+94;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hotel Siloè;Alojamiento;Micro;Planta turística;ND;;;-748743;-9575889
+95;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hostal Amazonas;Alojamiento;ND;Planta turística;ND;;;-748682,637;-9576076,463
+96;2019;Zamora Chinchipe;Yantzaza;ND;Hostal Central;Alojamiento;ND;Planta turística;ND;;;-748685,343;-9576086,836
+97;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hotel El Paraíso;Alojamiento;ND;Planta turística;ND;;;-748636;-9575927
+98;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hostal Alejandro;Alojamiento;ND;Planta turística;ND;;;-748999;-9577714
+99;2019;Zamora Chinchipe;Yantzaza;Yantzaza;LBM Los Buenos Muchachos;Bar;ND;Planta turística;ND;;;-748778,855;-9576901,862
+100;2019;Zamora Chinchipe;Yantzaza;ND;Bar Noche de Paris;Bar;ND;Planta turística;ND;;;-748843,923;-9576943,22
+101;2019;Zamora Chinchipe;Yantzaza;ND;Barra Bar Jandry;Bar;ND;Planta turística;ND;;;-748977,557;-9577009,406
+102;2019;Zamora Chinchipe;Yantzaza;Yantzaza;La Cascada;Bar;ND;Planta turística;ND;;;-748850,557;-9577092,027
+103;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Alexis Bar Karaoke;Bar;ND;Planta turística;ND;;;-748809,271;-9577039,503
+104;2019;Zamora Chinchipe;Yantzaza;ND;Ibiza Lounge Bar;Bar;ND;Planta turística;ND;;;-748615,43;-9576696,7
+105;2019;Zamora Chinchipe;Yantzaza;ND;Delicioso Heladería y cafetería;Cafetería;ND;Planta turística;ND;;;-748620,561;-9575691,902
+106;2019;Zamora Chinchipe;Yantzaza;Zamora;Sain;Cafetería;ND;Planta turística;ND;;;-748667,841;-9576127,284
+107;2019;Zamora Chinchipe;Yantzaza;ND;Yogurt Light Frost;Cafetería;ND;Planta turística;ND;;;-749837,048;-9576501,046
+108;2019;Zamora Chinchipe;Yantzaza;El Pangui;Café y Bolón;Cafetería;ND;Planta turística;ND;;;-748741,349;-9576619,043
+109;2019;Zamora Chinchipe;Yantzaza;El Pangui;Yogurt Frost;Heladeria;ND;Planta turística;ND;;;-748774,512;-9576619,657
+110;2019;Zamora Chinchipe;Yantzaza;Los Encuentros;Burger LKM;Cafetería;ND;Planta turística;ND;;;-748735,29;-9576654,79
+111;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Burger El Chaval;Cafetería;ND;Planta turística;ND;;;-748718,544;-9576613,398
+112;2019;Zamora Chinchipe;Yantzaza;ND;Platiniun Bar Discoteca;Discoteca;ND;Planta turística;ND;;;-748421,33;-9577071,99
+113;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Tonny Dance Discobar;Discoteca;ND;Planta turística;Ministerio de Turismo;;88;-749007,063;-9576951,214
+114;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Cevichería Mi Rey;Restaurante;ND;Planta turística;ND;;;-748689,884;-9575840,326
+115;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Restaurante Mi Sambo;Restaurante;ND;Planta turística;ND;;;-748484,1;-9575966,786
+116;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Mancora Marisquería;Restaurante;ND;Planta turística;ND;;;-748784,257;-9577022,056
+117;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Calipizza;Restaurante;ND;Planta turística;ND;;;-748774,02;-9576963,11
+118;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Marisquería Emelec;Restaurante;ND;Planta turística;ND;;;-748756,9;-9576783,51
+119;2019;Zamora Chinchipe;Yantzaza;Yantzaza;El rico pollo;Restaurante;ND;Planta turística;ND;;;-748555;-9575950
+120;2019;Zamora Chinchipe;Yantzaza;Los Encuentros;Como en casa;Restaurante;ND;Planta turística;ND;;;-748685,343;-9576086,836
+121;2019;Zamora Chinchipe;Yantzaza;Yantzaza;El Buen Sabor;Restaurante;ND;Planta turística;ND;;8;-748817,316;-9577328,473
+122;2019;Zamora Chinchipe;ND;ND;Mi Cris;Restaurante;ND;Planta turística;ND;;;-748793,949;-9577335,667
+123;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Cevichería Manabita El Panita;Restaurante;ND;Planta turística;ND;;;-748841,827;-9577280,405
+124;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Las Delicias de Mary;Restaurante;ND;Planta turística;ND;;;-748806,966;-9577310,392
+125;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Tatys Grill;Restaurante;ND;Planta turística;ND;;;-748730,227;-9577228,703
+126;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Centro Recreacional Ottawa;Restaurante;ND;Planta turística;ND;;;-748433,843;-9576224,002
+127;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Super Pollo;Restaurante;Tercera;Planta turística;Ministerio de Turismo;;;-748741,197;-9576663,682
+128;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Chifa Amazonas;Restaurante;ND;Planta turística;ND;;;-748712,303;-9576276,89
+129;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Restaurant Los Panchos;Restaurante;ND;Planta turística;ND;;;-748719,164;-9576486,934
+130;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Pollos a la Brasa Mi Pollito;Restaurante;ND;Planta turística;ND;;;-748710,266;-9576420,563
+131;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Casa Grill;Restaurante;ND;Planta turística;ND;;;-748606,625;-9576195,306
+132;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Pavi Broster;Restaurante;ND;Planta turística;ND;;;-748698,561;-9576171,584
+133;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Puerto Callao;Restaurante;Tercera;Planta turística;Ministerio de Turismo;;;-748688,455;-9576120,553
+134;2019;Zamora Chinchipe;Yantzaza;Yantzaza;King Chicken;Restaurante;ND;Planta turística;ND;;;-748652,643;-9575904,398
+135;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Reina del Cisne;Restaurante;ND;Planta turística;ND;;;-748551,681;-9675962,185
+136;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Cevichera Mi Conchita;Restaurante;ND;Planta turística;ND;;;-748636,885;-9575967,677
+137;2019;Zamora Chinchipe;Yantzaza;Yantzaza;El Costillar;Restaurante;ND;Planta turística;ND;;;-748725,35;-9573404,853
+138;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Asadero Pinchos de Metro;Restaurante;ND;Planta turística;ND;;;-748517,48;-9573721,48
+139;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Comedor Reina del Cisne;Restaurante;ND;Planta turística;ND;;;-750250,876;-9587616,032
+140;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Centro Recreacional Sumave;Restaurante;Tercera;Planta turística;Ministerio de Turismo;;;-758369,6;-9584727,8
+141;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Tuna Nunka;Restaurante;ND;Planta turística;ND;;;-750245;-9587786
+142;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Restaurante Doña Lucy;Restaurante;ND;Planta turística;ND;;;-760146,9;-9584016,2
+143;2019;Zamora Chinchipe;Yantzaza;Los Encuentros;El Chiringuito;Restaurante;ND;Planta turística;ND;;;-763276;-9584857
+144;2019;Zamora Chinchipe;Yantzaza;Los Encuentros;Centro Recreacional Mashi;Restaurante;ND;Planta turística;ND;;;-760736,666;-9584215,112
+145;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Hostería El Imperio;Restaurante;ND;Planta turística;ND;;;-748843,733;-9579796,274
+146;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Restaurante Sabores de casa;Restaurante;Tercera;Planta turística;Ministerio de Turismo;;;-748771;-9576124
+147;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Todo a Leña;Restaurante;ND;Planta turística;ND;;;-749052;-9577881
+148;2019;Zamora Chinchipe;Yantzaza;Los Encuentros;Jardín Burger;Restaurante;ND;Planta turística;ND;;;-761293;-9584007
+149;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Sandy Andy;Restaurante;ND;Planta turística;ND;;;-749065;-9577927
+150;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Mr. Chicken;Restaurante;ND;Planta turística;ND;;;-748819;-9577355
+151;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Yofrut Restaurante;Restaurante;ND;Planta turística;ND;;;-748817;-9577341
+152;2019;Zamora Chinchipe;Yantzaza;Chicaña;Di’ Mary Restaurante;Restaurante;ND;Planta turística;ND;;;748792;-9577072
+153;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Cerakej;Sala de recepciones y banquetes;Segunda;Planta turística;ND;;;-748962;-9576840
+154;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Otawa;Sala de recepciones y banquetes;Segunda;Planta turística;ND;;;-748437;-9576228
+155;2019;Zamora Chinchipe;Yantzaza;Yantzaza;D’Markos;Bar;Segunda;Planta turística;Ministerio de Turismo;;;-748.794.912;-9.577.115.530
+156;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Sala karaoke la rampa;Bar;Segunda;Planta turística;Ministerio de Turismo;;;-748551;-9576269
+157;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Maderos;Bar;Segunda;Planta turística;Ministerio de Turismo;;;-749045,347;-9577203,184
+158;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Maderos Sucursal;Discoteca;Segunda;Planta turística;Ministerio de Turismo;;;-749177;-9578647
+159;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Papi Chicken;Fuente de soda;Segunda;Planta turística;ND;;;-745626,485;-9575744,805
+160;2019;Zamora Chinchipe;Yantzaza;Yantzaza;"Ada la K""fetería""";Restaurante;Segunda;Planta turística;ND;;;-748677;-9576192
+161;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Tinku trip;Bar;Tercera;Planta turística;ND;;;-748505;-9576290
+162;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Cafetería la viña;Cafetería;Tercera;Planta turística;ND;;;-748657,741;-9576107,274
+163;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Yurank;Cafetería;Tercera;Planta turística;Ministerio de Turismo;;;-748632,207;-9575901,75
+164;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Parador Turístico Ayamtai;Restaurante;Tercera;Planta turística;Ministerio de Turismo;;;-749234,43;-9580212,842
+165;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Casa de campo;Restaurante;Tercera;Planta turística;Ministerio de Turismo;;;-755883;-9583267
+166;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Tinku trip;Restaurante;Tercera;Planta turística;ND;;;-748505;-9576290
+167;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Catering amazónico;Restaurante;Tercera;Planta turística;Ministerio de Turismo;;;-761387;-9584038
+168;2019;Zamora Chinchipe;Yantzaza;Yantzaza;Compañía de transportes en turismo tour pulmón de la Amazonía;Transporte;Servicio transporte terrestre turístico;Planta turística;ND;;;-748756;-9576722
+169;2018;Loja;Loja;Malacatos;Mi Compadre;Hostería;Segunda;Planta turística;ND;8;42;-4,208828;-7,922637
+170;2018;Loja;Loja;Malacatos;Las Lagunas;Hostería;Segunda;Planta turística;ND;6;18;-4,225188;-7,92406
+171;2018;Loja;Loja;Malacatos;Cabañas del sol;Hostería;Segunda;Planta turística;ND;6;14;-4,214017;-7,925089
+172;2018;Loja;Loja;Malacatos;Vallto Malacatos;Hostal;1 estrella;Planta turística;ND;20;20;-4,21952;-7,925774
+173;2018;Loja;Loja;Malacatos;Villa Colonial;Hostal Residencia;Segunda;Planta turística;ND;13;18;-4,218944;-7,925748
+174;2018;Loja;Loja;Malacatos;El Remanzo;Hostería;3 estrellas;Planta turística;ND;9;25;-4,216554;-7,923383
+175;2018;Loja;Loja;Malacatos;Quinta Esperanza;Hostería;3 estrellas;Planta turística;ND;13;18;-4,217082;-7,927734
+176;2018;Loja;Loja;Malacatos;Asadero El Valle;Restaurante;ND;Planta turística;ND;4;20;-4,260738;-7,922353
+177;2018;Loja;Loja;Malacatos;El Sabor de Casa;Restaurante;Tercera;Planta turística;ND;5;30;ND;ND
+178;2018;Loja;Loja;Malacatos;La Esquina del Sabor;Restaurante;Tercera;Planta turística;ND;7;25;ND;ND
+179;2018;Loja;Loja;Malacatos;Yhire;Restaurante;Tercera;Planta turística;ND;0;40;ND;ND
+180;2018;Loja;Loja;Malacatos;Esquina del Sabor;Restaurante;Tercera;Planta turística;ND;40;160;ND;ND
+181;2018;Loja;Loja;Malacatos;Yunanga;Restaurante;Tercera;Planta turística;ND;20;80;ND;ND
+182;2018;Loja;Loja;Malacatos;Sabía que Vendrías ;Restaurante;Tercera;Planta turística;ND;10;40;ND;ND
+183;2018;Loja;Loja;Malacatos;Los Cortijos ;Restaurante;Tercera;Planta turística;ND;8;32;ND;ND
+184;2018;Loja;Loja;Malacatos;Las Chorreras;Restaurante;Tercera;Planta turística;ND;8;32;ND;ND
+185;2018;Loja;Loja;Malacatos;San Antonio;Restaurante;Tercera;Planta turística;ND;10;40;ND;ND
+186;2019;Loja;Saraguro;Saraguro;Achik Wasi;Hostal;Segunda;Planta turística;Ministerio de Turismo;13;40;-3624444;-79242083
+187;2019;Loja;Saraguro;Saraguro;Saraguro;Pensión;Tercera;Planta turística;Ministerio de Turismo;14;17;-3622535;-79238497
+188;2019;Loja;Saraguro;Saraguro;Samana Wasi;Hostal Residencia;Tercera;Planta turística;Ministerio de Turismo;16;24;-3624278;-79236056
+189;2019;Loja;Saraguro;Saraguro;Reina del Cisne;Restaurante;Tercera;Planta turística;Ministerio de Turismo;6;24;-3622535;-79238497
+190;2019;Loja;Saraguro;Saraguro;Mama Cuchara;Restaurante;Segunda;Planta turística;Ministerio de Turismo;8;54;-3622306;-79238000
+191;2019;Loja;Saraguro;Saraguro;La Muguna;Restaurante;Segunda;Planta turística;Ministerio de Turismo;6;24;-3620944;-79240339
+192;2019;Loja;Saraguro;Saraguro;Piky y Tiempla;Restaurante;Cuarta;Planta turística;Ministerio de Turismo;4;16;-3622535;-79238497
+193;2019;Loja;Saraguro;Saraguro;La Casona del Sabor;Restaurante;Cuarta;Planta turística;Ministerio de Turismo;6;24;-3622139;-79239583
+194;2019;Loja;Saraguro;Saraguro;Inti Waspi;Restaurante;Tercera;Planta turística;Ministerio de Turismo;6;24;-3622535;-79238497
+195;2019;Loja;Saraguro;Saraguro;Shamuico Espai Gastronomic;Restaurante;Segunda;Planta turística;Ministerio de Turismo;8;32;-3622861;-79238639
+196;2019;Loja;Saraguro;Saraguro;Sarakawa;Restaurante;Tercera;Planta turística;Ministerio de Turismo;5;25;-3625861;-79236472
+197;2019;Loja;Saraguro;Saraguro;Perla del Pacifico;Restaurante;Tercera;Planta turística;Ministerio de Turismo;8;32;-3622535;-79238497
+198;2019;Loja;Saraguro;Saraguro;Alkapone;Bar;Tercera;Planta turística;Ministerio de Turismo;5;20;-3622535;-79238497
+199;2019;Loja;Saraguro;Saraguro;Runa Extreme;Operadora Turística;Operador Turístico;Planta turística;Ministerio de Turismo;;;-3626778;-79237222
+200;2019;Loja;Saraguro;Saraguro;Sara Urku;Operadora Turística;Operador Turístico;Planta turística;Ministerio de Turismo;;;-3623333;-79238583
+201;2019;Loja;Saraguro;Saraguro;Cabrera Gonzalez y Asociados S.A;Servicio de Transporte Terrestre Turístico;Servicio transporte terrestre turístico;Planta turística;Ministerio de Turismo;;;-3622535;-79238497
+202;2019;Loja;Saraguro;Saraguro;María José;Restaurante;Tercera;Planta turística;Ministerio del Interior;3;12;-3622535;-79238497
+203;2019;Loja;Saraguro;Saraguro;Asadero Bar Restaurante;Restaurante;Segunda;Planta turística;Ministerio del Interior;5;20;-3622535;-79238497
+204;2019;Loja;Saraguro;Saraguro;Restaurante La Tullpa;Restaurante;Tercera;Planta turística;Ministerio del Interior;4;16;-3622139;-79236417
+205;2019;Loja;Saraguro;Saraguro;Restaurante Saraguro;Restaurante;Segunda;Planta turística;Ministerio del Interior;4;16;-3622535;-79238497
+206;2019;Loja;Saraguro;Saraguro;Agachaditos Bar ´´La Media´´;Restaurante;Cuarta;Planta turística;Ministerio del Interior;4;12;-3622535;-79238497
+207;2019;Loja;Saraguro;Saraguro;Restaurante y Marisqueria Anthony;Restaurante;Cuarta;Planta turística;Ministerio del Interior;4;16;-3622535;-79238497
+208;2019;Loja;Saraguro;Saraguro;Grilled Fast Food;Restaurante;Tercera;Planta turística;Ministerio del Interior;2;8;-3622535;-79238497
+209;2019;Loja;Saraguro;Saraguro;La Parada;Restaurante;Segunda;Planta turística;Ministerio del Interior;4;16;-3622535;-79238497
+210;2019;Loja;Saraguro;Saraguro;Asadero Pukuy;Restaurante;Tercera;Planta turística;Ministerio del Interior;4;16;-3622535;-79238497
+211;2019;Loja;Saraguro;Lluzhapa;Comedor Julia;Restaurante;Segunda;Planta turística;Ministerio del Interior;5;20;-3494167;-79337083
+212;2019;Loja;Saraguro;Tablón;Restaurante Jhoanita;Restaurante;Tercera;Planta turística;Ministerio del Interior;4;16;-3479790;-79169391
+213;2019;Loja;Saraguro;Saraguro;La Casa del Café;Cafetería;Tercera;Planta turística;Ministerio del Interior;4;16;-3622535;-79238497
+214;2019;Loja;Saraguro;Urdaneta;Restaurante Stefania;Restaurante;Tercera;Planta turística;Ministerio del Interior;4;16;-3604526;-79211285
+215;2019;Loja;Saraguro;Saraguro;A Papiar;Fuente de Soda;Tercera;Planta turística;Ministerio del Interior;2;8;-3622535;-79238497
+216;2019;Loja;Saraguro;Saraguro;Agachaditos Cri Cri;Restaurante;Tercera;Planta turística;Ministerio del Interior;3;12;-3622535;-79238497
+217;2019;Loja;Saraguro;Saraguro;Hospedaje Comunitario Pucara;Pensión;Tercera;Planta turística;Ministerio del Interior;2;3;-3622535;-79238497
+218;2019;Loja;Saraguro;Saraguro;Centro Turístico Inti Wasi;Hostal Residencia;Segunda;Planta turística;Ministerio del Interior;5;11;-3626917;-79244750
+219;2019;Loja;Saraguro;Saraguro;Nukanchi Sara Allpa;Hostal Residencia;Segunda;Planta turística;Ministerio del Interior;12;20;-3622535;-79238497
+220;2019;Loja;Saraguro;Saraguro;Runa Wasi;Pensión;Cuarta;Planta turística;Ministerio del Interior;2;4;-3622535;-79238497
+221;2019;Loja;Saraguro;Saraguro;Punky Kay;Hostal Residencia;Cuarta;Planta turística;Ministerio del Interior;2;5;-3614056;-79249083
+222;2019;Loja;Saraguro;Saraguro;Pakari Tambo;Hostal Residencia;Tercera;Planta turística;Ministerio del Interior;6;18;-3626417;-79226111
+223;2019;Loja;Saraguro;Manú;Casa Refugio Cerro de Arcos;Pensión;Tercera;Planta turística;Ministerio del Interior;3;12;-3486366;-79410350
+224;2019;Loja;Saraguro;Saraguro;Tupay;Restaurante;Tercera;Planta turística;Ministerio del Interior;3;12;-3622778;-79238861
+225;2019;Loja;Saraguro;Saraguro;El Broster de la ''Guardia'';Restaurante;Segunda;Planta turística;Ministerio del Interior;3;12;-3622535;-79238497
+226;2019;Loja;Saraguro;Saraguro;Rikury;Restaurante;Tercera;Planta turística;Ministerio del Interior;4;16;-3623722;-79238278
+227;2019;Loja;Saraguro;Saraguro;Crazy Chicken;Restaurante;Segunda;Planta turística;Ministerio del Interior;4;16;-3623778;-79238694
+228;2019;Loja;Saraguro;Saraguro;La Guardia;Restaurante;Cuarta;Planta turística;Ministerio del Interior;6;24;-3465972;-79159500
+229;2019;Loja;Saraguro;Saraguro;Quesos Saraguros;Restaurante;Cuarta;Planta turística;Ministerio del Interior;6;24;-3647977;-79254446
+230;2019;Loja;Saraguro;Saraguro;Mi Casa Restaurante;Restaurante;Tercera;Planta turística;Ministerio del Interior;4;16;-3622535;-79238497
+231;2019;Loja;Saraguro;Celén;Restaurante Cristo del Consuelo;Restaurante;Segunda;Planta turística;Ministerio del Interior;5;20;-3601400;-79339845
+232;2019;Loja;Saraguro;Celén;Comedor Reina del Transito;Restaurante;Tercera;Planta turística;Ministerio del Interior;4;13;-3601400;-79339845
+233;2019;Loja;Saraguro;Saraguro;Fuente de Soda;Fuente de Soda;Segunda;Planta turística;Ministerio del Interior;4;16;-3622535;-79238497
+234;2019;Loja;Saraguro;Manú;Restaurante Pica y Pasa;Restaurante;Tercera;Planta turística;Ministerio del Interior;5;20;-3486806;-79410222
+235;2019;Loja;Saraguro;Manú;Restaurante Pollos a la Titiaña;Restaurante;Tercera;Planta turística;Ministerio del Interior;4;16;-3486366;-79410350
+236;2019;Loja;Saraguro;Tablón;Hacienda La Potranca;Cafetería;Tercera;Planta turística;Ministerio del Interior;5;20;-3479194;-79170472
+237;2019;Loja;Saraguro;Saraguro;Saraguros Travel;Operadora Turística;Operador Turístico;Planta turística;Ministerio del Interior;;;-3622972;-79238278
+238;2019;Loja;Saraguro;Selva Alegre;Posada;Posada;Segunda;Planta turística;ND;5;15;-3551495;-79345265
+239;2019;Loja;Saraguro;Manú;Posada;Posada;Segunda;Planta turística;ND;2;3;-3486366;-79410350
+240;2019;Loja;Saraguro;Manú;Posada;Posada;Tercera;Planta turística;ND;1;4;-3486366;-79410350
+241;2019;Loja;Saraguro;Saraguro;Pizzamania;Fuente de Soda;Tercera;Planta turística;ND;4;16;-3622535;-79238497
+242;2019;Loja;Saraguro;Yuluc;Comercial Saca;Fuente de Soda;Tercera;Planta turística;ND;1;6;-3370575;-79438424
+243;2019;Loja;Saraguro;Yuluc;Comedor Carlita;Comedor;Tercera;Planta turística;ND;6;30;-3370575;-79438424
+244;2019;Loja;Saraguro;Sumaypamba;Comedor Elenita;Comedor;Tercera;Planta turística;ND;2;12;-3347686;-79335261
+245;2019;Loja;Saraguro;Lluzhapa;Comedor Bachita;Comedor;Tercera;Planta turística;ND;5;20;-3494167;-79337083
+246;2019;Loja;Loja;Vilcabamba ;Cabañas Rio Yambala;Refugio;Única;Planta turística;Ministerio de Turismo ;5;13;-4,273006;-79,194622
+247;2019;Loja;Loja;Vilcabamba ;Vilcabamba;Hostería;Primera;Planta turística;Ministerio de Turismo ;23;50;-4,251331;-79,225237
+248;2019;Loja;Loja;Vilcabamba ;Garden House;Casa de huéspedes;Única;Planta turística;Ministerio de Turismo ;10;17;-4,261865;-79,220033
+249;2019;Loja;Loja;Vilcabamba ;El Descanso de Ramses;Hostería;3 estrellas;Planta turística;Ministerio de Turismo ;16;36;-4,259835;-79,221029
+250;2019;Loja;Loja;Vilcabamba ;El Descanso del Toro;Hostería;5 estrellas;Planta turística;Ministerio de Turismo ;21;52;-4,261306;-79,216299
+251;2019;Loja;Loja;Vilcabamba ;Izhcayluma;Hostería;3 estrellas;Planta turística;Ministerio de Turismo ;23;64;-4,277826;-79,224421
+252;2019;Loja;Loja;Vilcabamba ;Paraíso 1;Hostería;3 estrellas;Planta turística;Ministerio de Turismo ;9;27;-4,255107;-79,3448
+253;2019;Loja;Loja;Vilcabamba ;Le Rendez- Vous Guesthouse;Hostal;1 estrella;Planta turística;Ministerio de Turismo ;14;34;-4,261057;-79,220145
+254;2019;Loja;Loja;Vilcabamba ;Molino Tropical;Hostería;3 estrellas;Planta turística;Ministerio de Turismo ;8;13;-4,277299;-79,223825
+255;2019;Loja;Loja;Vilcabamba ;Ruinas de Quinara;Hostería;Segunda;Planta turística;Ministerio de Turismo ;47;67;-4,261377;-79,214954
+256;2019;Loja;Loja;Vilcabamba ;Rumi Wilco;Refugio;Única;Planta turística;Ministerio de Turismo ;9;25;-4,258263;-79,216495
+257;2019;Loja;Loja;Vilcabamba ;Villa Beatriz Lodge;Hostería;3 estrellas;Planta turística;Ministerio de Turismo ;9;27;-4,256704;-79,229375
+258;2019;Loja;Loja;Vilcabamba ;Avalon BYB;Casa de huéspedes;ND;Planta turística;ND;3;5;-4,261913;-79,221025
+259;2019;Loja;Loja;Vilcabamba ;Casa Amarilla;Apartamentos;ND;Planta turística;ND;5;9;-4,263027;-79,221607
+260;2019;Loja;Loja;Vilcabamba ;Casa la Caracola;Casa de huéspedes;ND;Planta turística;ND;3;7;-4,270069;-79,217834
+261;2019;Loja;Loja;Vilcabamba ;Las Margaritas;Hostal;ND;Planta turística;ND;6;20;-4,261805;-79,2231
+262;2019;Loja;Loja;Vilcabamba ;La Casa de Mtilda;ND;ND;Planta turística;ND;4;10;-4,264429;-79,219306
+263;2019;Loja;Loja;Vilcabamba ;Pensión Crucita;Pensión;ND;Planta turística;ND;6;15;-4,261402;-79,221539
+264;2019;Loja;Loja;Vilcabamba ;Residencial Mandango;ND;ND;Planta turística;ND;16;30;-4,261661;-79,224679
+265;2019;Loja;Loja;Vilcabamba ;Rivera Chamba ;Complejo Turisico;ND;Planta turística;ND;6;11;-4,26597;-79,215289
+266;2019;Loja;Loja;Vilcabamba ;Taranza;Hostal;ND;Planta turística;ND;11;20;-4,261209;-79,214209
+267;2019;Loja;Loja;Vilcabamba ;Valle Sagrado;Residencia;ND;Planta turística;ND;16;30;-4,260603;-79,223512
+268;2019;Loja;Loja;Vilcabamba ;Clun Hacienda El Atillo;ND;ND;Planta turística;ND;12;24;-4,264668;-79,220164
+269;2019;Loja;Loja;Vilcabamba ;Jardín Escondido;Hostería;ND;Planta turística;ND;14;35;-4,259882;-79,22275
+270;2019;Loja;Loja;Vilcabamba ;Madre Tierra;ND;ND;Planta turística;ND;20;58;-4,246745;-79,225765
+271;2019;Loja;Loja;Vilcabamba ;Agave Blu;Restaurante;Tercera;Planta turística;Ministerio de Turismo ;8;32;-4,261039;-79,222346
+272;2019;Loja;Loja;Vilcabamba ;Breiky's;Bar;Tercera;Planta turística;Ministerio de Turismo ;5;20;-4,25361;-79,224104
+273;2019;Loja;Loja;Vilcabamba ;Charlitos;Fuente de soda;Tercera;Planta turística;Ministerio de Turismo ;6;24;-4,260893;-79,220925
+274;2019;Loja;Loja;Vilcabamba ;El Atillo;Fuente de soda;Cuarta;Planta turística;Ministerio de Turismo ;6;24;-4,264267;-79,219756
+275;2019;Loja;Loja;Vilcabamba ;La Esquina;Restaurante;Cuarta;Planta turística;Ministerio de Turismo ;6;24;-4,260429;-79,222895
+276;2019;Loja;Loja;Vilcabamba ;La Menorquina;Restaurante;Tercera;Planta turística;Ministerio de Turismo ;8;32;-4,260844;-79,22297
+277;2019;Loja;Loja;Vilcabamba ;La Terraza Delicious Food;Restaurante;Tercera;Planta turística;Ministerio de Turismo ;10;40;-4,260419;-79,222214
+278;2019;Loja;Loja;Vilcabamba ;Las Orquídeas;Restaurante;Tercera;Planta turística;Ministerio de Turismo ;4;16;-4,260288;-79,223338
+279;2019;Loja;Loja;Vilcabamba ;Layseca's;Cafetería;Segunda;Planta turística;Ministerio de Turismo ;7;28;-4,260599;-79,22295
+280;2019;Loja;Loja;Vilcabamba ;Mexibamba;Restaurante;Cuarta;Planta turística;Ministerio de Turismo ;5;20;-4,260663;-79,221677
+281;2019;Loja;Loja;Vilcabamba ;Murano;Restaurante;Tercera;Planta turística;Ministerio de Turismo ;6;24;-4,260185;-79,222861
+282;2019;Loja;Loja;Vilcabamba ;Natural Yogurt;Cafetería;Cuarta;Planta turística;Ministerio de Turismo ;8;40;-4,260235;-79,222282
+283;2019;Loja;Loja;Vilcabamba ;Peking;Restaurante;Cuarta;Planta turística;Ministerio de Turismo ;5;20;-4,260811;-79,221129
+284;2019;Loja;Loja;Vilcabamba ;Shanta's;Restaurante;Tercera;Planta turística;Ministerio de Turismo ;6;24;-4,25447;-79,221859
+285;2019;Loja;Loja;Vilcabamba ;Timothy's;Cafetería;Segunda;Planta turística;Ministerio de Turismo ;8;32;-4,260216;-79,223283
+286;2019;Loja;Loja;Vilcabamba ;United Falafel Café;Restaurante;Tercera;Planta turística;Ministerio de Turismo ;10;40;-4,261067;-79,222626
+287;2019;Loja;Loja;Vilcabamba ;Vilcabamba Juice Factory;Restaurante;Tercera;Planta turística;Ministerio de Turismo ;4;16;-4,260621;-79,22195
+288;2019;Loja;Loja;Vilcabamba ;La Casetta Pizzeria;Restaurante;ND;Planta turística;Ministerio de Turismo ;1;4;-4,261731;-79,223216
+289;2019;Loja;Loja;Vilcabamba ;Cafetería Samy;Restaurante;ND;Planta turística;Ministerio de Turismo ;5;20;-4,262674;-79,2242
+290;2019;Loja;Loja;Vilcabamba ;Sabor Costeño;Restaurante;ND;Planta turística;Ministerio de Turismo ;6;18;-4,262562;-79,224161
+291;2019;Loja;Loja;Vilcabamba ;Pica Pollo;Restaurante;ND;Planta turística;Ministerio de Turismo ;13;48;-4,262053;-79,224004
+292;2019;Loja;Loja;Vilcabamba ;Asaderos de Pollos Vilcabamba;Restaurante;ND;Planta turística;Ministerio de Turismo ;5;20;-4,261666;-79,223825
+293;2019;Loja;Loja;Vilcabamba ;El Mirador;Restaurante;ND;Planta turística;Ministerio de Turismo ;6;30;-4,265463;-79,212826
+294;2019;Loja;Loja;Vilcabamba ;El Carro Azul;Restaurante;ND;Planta turística;Ministerio de Turismo ;9;32;-4,261207;-79,216246
+295;2019;Loja;Loja;Vilcabamba ;Beverly Hills Café;Cafetería;ND;Planta turística;ND;5;12;-4,260312;-79,223139
+296;2019;Loja;Loja;Vilcabamba ;Frutti Coffe;Cafetería;ND;Planta turística;ND;2;6;-4,261446;-79,22293
+297;2019;Loja;Loja;Vilcabamba ;La Criollita;Restaurante;ND;Planta turística;ND;6;24;-4,260219;-79,222183
+298;2019;Loja;Loja;Vilcabamba ;Mestizo;Restaurante;ND;Planta turística;ND;7;22;-4,260643;-79,221611
+299;2019;Loja;Loja;Vilcabamba ;Pollo Tropical;Restaurante;ND;Planta turística;ND;6;35;-4,260253;-79,223185
+300;2019;Loja;Loja;Vilcabamba ;Restaurante A;Restaurante;ND;Planta turística;ND;4;20;-4,260851;-79,222626
+301;2019;Loja;Loja;Vilcabamba ;Restaurante Alexander;Restaurante;ND;Planta turística;ND;4;16;-4,261247;-79,224726
+302;2019;Loja;Loja;Vilcabamba ;Restaurante Katherine;Restaurante;ND;Planta turística;ND;9;27;-4,26143;-79,22316
+303;2019;Loja;Loja;Vilcabamba ;Restaurante La Choza;Restaurante;ND;Planta turística;ND;6;20;-4,26067;-79,222709
+304;2019;Loja;Loja;Vilcabamba ;Restaurante Lizbeth;Restaurante;ND;Planta turística;ND;20;50;-4,26067;-79,222709
+305;2019;Loja;Loja;Vilcabamba ;Urku Warmy;Restaurante;ND;Planta turística;ND;4;12;-4,260129;-79,222729
+306;2019;Loja;Loja;Vilcabamba ;Papitas al paso;Fuente de soda;ND;Planta turística;ND;4;12;-4,26101;-79,221721
+307;2019;Loja;Loja;Vilcabamba ;Asadero el Rico Pollo ;Restaurante;ND;Planta turística;ND;4;24;-4,261707;-79,223778
+308;2019;Loja;Loja;Vilcabamba ;Comedor Municipal;ND;ND;Planta turística;ND;15;57;-4,26067;-79,222709
+309;2019;Loja;Loja;Vilcabamba ;Bar Centro Recreacional Yamburara;Fuente de soda;ND;Planta turística;ND;5;20;-4,264002;-79,222553
+310;2019;Loja;Loja;Vilcabamba ;Asadero De Pollo;Restaurante;ND;Planta turística;ND;4;18;-4,261686;-79,223802
+311;2019;Loja;Loja;Vilcabamba ;Burguer Cafeteria Jd;Restaurante;ND;Planta turística;ND;;;-4,261051;-79,223789
+312;2019;Loja;Loja;Vilcabamba ;Donde Bava;Bar;ND;Planta turística;ND;5;19;-4,26067;-79,222709
+313;2019;Loja;Loja;Vilcabamba ;Craig's Book Exchange And Fine Arts Gallery;ND;ND;Planta turística;ND;1;5;-4,261486;-79,211824
+314;2019;Loja;Loja;Vilcabamba ;Inza Coffe;Cafetería;ND;Planta turística;ND;2;10;-4,261205;-79,21596
+315;2019;Loja;Loja;Vilcabamba ;La Rica Pizza;Fuente de soda;ND;Planta turística;ND;;;-4,26067;-79,222709
+316;2019;Loja;Loja;Vilcabamba ;Patios de Comida (Pinchos Vilcabamba, Pizza Molinari, Jugueria);Restaurante;ND;Planta turística;ND;6;35;-4,26067;-79,222709
+317;2019;Loja;Loja;Vilcabamba ;Restaurante Vilcabamba;Restaurante;ND;Planta turística;ND;6;30;-4,260716;-79,221511
+318;2019;Loja;Loja;Vilcabamba ;Rutas Comida yAventura;Restaurante;ND;Planta turística;ND;4;20;-4,260272;-79,223333
+319;2019;Loja;Loja;Vilcabamba ;Zuoyi Chifa Restaurant;Restaurante;ND;Planta turística;ND;;;-4,260007;-79,222778
+320;2019;Loja;Loja;Vilcabamba ;Restaurante Los Piqueros;Restaurante;ND;Planta turística;ND;5;20;-4,260717;-79,224056
+321;2019;Loja;Loja;Vilcabamba ;La Cocina De Las Carolinas;Restaurante;ND;Planta turística;ND;1;5;-4,26067;-79,222709
+322;2019;Loja;Loja;Vilcabamba ;La Tasca Tours;Operadora Turística;Agencias de Viaje;Planta turística;Ministerio de Turismo ;;;-4,260724;-79,221627
+323;2019;Loja;Loja;Vilcabamba ;Monta Viejo Luis;Operadora Turística;Agencias de Viaje;Planta turística;Ministerio de Turismo ;;;-4,261385;-79,221579
+324;2019;Loja;Loja;Vilcabamba ;Gavilán Tours ;Operadora Turística;Agencias de Viaje;Planta turística;Ministerio de Turismo ;;;-4,260191;-79,222751
+325;2019;Loja;Loja;Vilcabamba ;HyCh Vilcatourist;Operadora Turística;Agencias de Viaje;Planta turística;Ministerio de Turismo ;;;-4,26067;-79,222709
+326;2019;Loja;Loja;Vilcabamba ;Vilca Adventure;Operadora Turística;Agencias de Viaje;Planta turística;Ministerio de Turismo ;;;-4,260404;-79,222216
+327;2019;Loja;Loja;Vilcabamba ;Chinos Bike;Alquiler de Bicicleta;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,259948;-79,222686
+328;2019;Loja;Loja;Vilcabamba ;Artesanías El Tucán;Tienda de Artesanía;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,260642;-79,222965
+329;2019;Loja;Loja;Vilcabamba ;Artesano;Tienda de Artesanía;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,26067;-79,222709
+330;2019;Loja;Loja;Vilcabamba ;Bazar y Artesanía Tanya;Tienda de Artesanía;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,262135;-79,221589
+331;2019;Loja;Loja;Vilcabamba ;Tienda El Longevo;Tienda de Artesanía;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,260826;-79,223193
+332;2019;Loja;Loja;Vilcabamba ;Handicrafts;Tienda de Artesanía;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,26067;-79,222709
+333;2019;Loja;Loja;Vilcabamba ;Vilca Tierra ;Tienda de Artesanía;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,260698;-79,221788
+334;2019;Loja;Loja;Vilcabamba ;Transporte Mixto Vilcabamba Express;Transporte;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,261529;-79,224246
+335;2019;Loja;Loja;Vilcabamba ;Cooperativa de Transporte Río Chamba;Transporte;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,261529;-79,224246
+336;2019;Loja;Loja;Vilcabamba ;Cooperativa de Transporte Loja;Transporte;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,261529;-79,224246
+337;2019;Loja;Loja;Vilcabamba ;Terminal Terrestre;Transporte;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,261529;-79,224246
+338;2019;Loja;Loja;Vilcabamba ;I-tur Municipal;Información Turistica;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,260515;-79,222334
+339;2019;Loja;Loja;Vilcabamba ;Baños públicos municipales;Servicios Higiénios;Servicios Complementarios;Planta turística;ND;;;-4,26067;-79,222709
+340;2019;Loja;Loja;Vilcabamba ;UPC Vilcabamba;Policía Comunitaria;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,259778;-79,222339
+341;2019;Loja;Loja;Vilcabamba ;Cuerpo de Bomberos ;Bomberos;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,259026;-79,222709
+342;2019;Loja;Loja;Vilcabamba ;Oficina de Correos del Ecuador;Envío y Recepción de correo;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,26067;-79,222413
+343;2019;Loja;Loja;Vilcabamba ;Hospital Básico Vilcabanba;Salud;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,258547;-79,223043
+344;2019;Loja;Loja;Vilcabamba ;Centro de Meditación Vilcabamba;Salud;Servicios Complementarios;Planta turística;Ministerio del Interior;;;-4,257761;-79,221605
