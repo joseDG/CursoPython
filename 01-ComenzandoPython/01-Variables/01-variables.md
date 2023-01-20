@@ -13,6 +13,34 @@ En python las variables se definen utilizando las letras de la A a la Z, tanto e
 
 Los valores con asignados a las variables con el operador asignacion "=" lo que esta ala derecha del operador será asignado.
 
+```
+#varaibles 
+nombre = "Jose Diaz"
+nombre 
+```
+
+```
+print("Day 1 - Funcion para imprimir")
+print('La funcion se declara asi')
+print("print('cual imprime')") 
+```
+
+```
+#crear un salto de linea
+print("una mesa \nuna silla")
+```
+```
+#creacion del input
+print("Hola "+ input("Cual es tu nombre")) 
+```
+
+```
+#verificar el tamano de las letras
+ciudad = "Ecuador"
+length = len(ciudad)
+print("Tamaño de letras {1}, Palabra {0}".format(ciudad,length)) 
+```
+
 ``` 
 edad = 35
 ciudad = "Loja"
@@ -64,3 +92,10 @@ El comando **print** dispone de dos parametros que nos van a permitir darle form
   print(1,2,3, sep=',', end='.') 
   ``` 
   
+```
+#ejercicio completo
+print("Bienvenido a tu band name genreator")
+city = input("Cual es tu ciudad")
+pet = input("Cual es el nombre de mascota")
+print("Tu datos podrian ser: {0}, y tu mascota {1}".format(city,pet)) 
+```
